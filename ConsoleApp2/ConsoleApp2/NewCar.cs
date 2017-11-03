@@ -13,7 +13,7 @@ namespace ConsoleApp2
             Brand = "BMW";
             Model = "X6";
             FormFactor = "SUV";
-            Wheels = 17;
+            Wheels = 22;
             Doors = 5;
         }
     }
