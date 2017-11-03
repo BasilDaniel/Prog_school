@@ -14,7 +14,7 @@ namespace ConsoleApp2
             Model = "X6";
             FormFactor = "SUV";
             Wheels = 17;
-            Doors = 3;
+            Doors = 5;
         }
     }
     public class Car2 : Cars
