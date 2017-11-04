@@ -21,7 +21,6 @@ namespace ConsoleApp3
                 Sum = Sum + s;                
             }
             Console.WriteLine(Sum);
-            Console.ReadKey();
         }
         
     }
