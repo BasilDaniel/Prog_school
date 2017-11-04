@@ -27,5 +27,13 @@ namespace ConsoleApp2
             Wheels = 13;
             Doors = 5;
         }
+        public override void GetYourCarGeneralInfo()
+        {
+            Console.WriteLine($"Your Brand is- {Brand}");
+            Console.WriteLine($"Your Model is- {Model}");
+            Console.WriteLine($"Your car has FormFactor - {FormFactor}");
+            Console.WriteLine($"Your car has Wheels size - {Wheels}");
+            Console.WriteLine($"Your car has number of Doors - {Doors}");
+        }
     }
 }  

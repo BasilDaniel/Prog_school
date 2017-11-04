@@ -40,7 +40,7 @@ namespace ConsoleApp2
             set { _doors = value; }
         }
 
-        public void GetYourCarGeneralInfo()
+        public virtual void GetYourCarGeneralInfo()
         {
             Console.WriteLine($"Brand - {Brand}");
             Console.WriteLine($"Model - {Model}");
