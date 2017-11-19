@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // Управление общими сведениями о сборке осуществляется следующим образом
 // набора атрибутов. Измените значения этих атрибутов для изменения сведений,
 // связанных с этой сборкой.
-[assembly: AssemblyTitle("MvcMusicStore")]
+[assembly: AssemblyTitle("BookStore")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("MvcMusicStore")]
+[assembly: AssemblyProduct("BookStore")]
 [assembly: AssemblyCopyright("© , 2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Следующий GUID служит для ID библиотеки типов typelib, если этот проект видим для COM
-[assembly: Guid("c2c564cd-def5-456e-ada9-f4a7d4a23442")]
+[assembly: Guid("371a6073-b898-448c-bcfd-ed50a5b9e356")]
 
 // Сведения о версии сборки состоят из указанных ниже четырех значений:
 //

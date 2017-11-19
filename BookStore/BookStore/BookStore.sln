@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26730.12
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcMusicStore", "MvcMusicStore\MvcMusicStore.csproj", "{F77C92E3-3613-4BD5-8609-52D20DCA40E0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookStore", "BookStore\BookStore.csproj", "{3F06776E-352E-4233-85D0-2F180823A784}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{F77C92E3-3613-4BD5-8609-52D20DCA40E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F77C92E3-3613-4BD5-8609-52D20DCA40E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F77C92E3-3613-4BD5-8609-52D20DCA40E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F77C92E3-3613-4BD5-8609-52D20DCA40E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F06776E-352E-4233-85D0-2F180823A784}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F06776E-352E-4233-85D0-2F180823A784}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F06776E-352E-4233-85D0-2F180823A784}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F06776E-352E-4233-85D0-2F180823A784}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {B698C112-D309-49EE-B150-6A3CE9829D4C}
+		SolutionGuid = {55BFD117-A466-4516-AAE2-530462423A4E}
 	EndGlobalSection
 EndGlobal
